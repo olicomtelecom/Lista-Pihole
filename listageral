@@ -1,6 +1,24 @@
-# Inicio Blacklist
+# Se notear que as solicitações não estão chegando no Pihole será necessário
+# identificar e bloquear o uso de DNS PRIVADO como o AD GUARD, por exemplo.
+
+########## CONFIGURAR EM DOMAIN / REGEX FILTER ##########
+
+# ADGUARD
+# adguard.com
+
+# AMAZON PRIME VIDEO
+# aiv-delivery.net
+# amazonvideo.com
+# primevideo.com
+# media-amazon.com
+
+# NETFLIX
+# netflix.com
+# nflxso.net
+
+########## ADLIST ##########
 # 0.0.0.0 endereco
 
-# Mercado Livre Play
+# MERCADO LIVRE PLAY
 0.0.0.0 play.mercadolivre.com.br
 0.0.0.0 play.mlstatic.com
